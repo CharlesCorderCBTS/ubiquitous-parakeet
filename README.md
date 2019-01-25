@@ -3,6 +3,6 @@
 In This Course, you will learn how to use GitHub Successfully
 
 ### The basics
-- Sample Item 1
+- Clone From Charles Corder To Charles Corder CBTS
 - Sample Item 2
 - Sample Item 3
